@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="CodeEnviroment:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CodeEnviroment_jar</output-path>
+    <root id="archive" name="CodeEnviroment.jar">
+      <element id="module-output" name="CodeEnviroment" />
+    </root>
+  </artifact>
+</component>
